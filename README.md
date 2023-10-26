@@ -3,7 +3,7 @@ This will contain all the material link which I will be uploading on google driv
 
 This is the one stop solution for->
 
-1-Tutorials and Assignments with their detailed solutions.
+1-Tutorials, Assignments and Labs with their detailed solutions.
 
 2-Previous Years Question Papers with their detailed solutions.
 
