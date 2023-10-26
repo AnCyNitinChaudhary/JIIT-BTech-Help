@@ -1,1 +1,1 @@
-This contains the semester 1 subjects help links.
+Please open the drive link to access the material.
